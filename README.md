@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/python-logo.png" alt="PySpark Cover" width="15%" />
+  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/python-logo.png" alt="PySpark Cover" width="25%" />
   <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/ezgif-5a997e59bd6be0.gif" alt="PySpark Cover" width="40%" />
-  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/python-logo.png" alt="PySpark Cover" width="15%" />
+  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/python-logo.png" alt="PySpark Cover" width="25%" />
 </p> 
 
 # <span style="color:#4CAF50;">📚 Welcome to My Python Learning Journey 🚀</span>
