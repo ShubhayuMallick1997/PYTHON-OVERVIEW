@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/kisspng-scalable-vector-graphics-javascript-python-logo-python-png-1713921357467_-_Copy-removebg-preview.png" alt="PySpark Cover" width="20%" />
   <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/ezgif-5a997e59bd6be0.gif" alt="PySpark Cover" width="40%" />
-  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/transparent-python-python-programming-language-python-coding-p-creative-representation-of-python-programming-1710921097935-removebg-preview.png" alt="PySpark Cover" height = "100" />
+  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/kisspng-python-compute-removebg-preview.png" alt="PySpark Cover" height = "220" />
 </p> 
 
 # <span style="color:#4CAF50;">📚 Welcome to My Python Learning Journey 🚀</span>
