@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/kisspng-scalable-vector-graphics-javascript-python-logo-python-png-1713921357467_-_Copy-removebg-preview.png" alt="PySpark Cover" width="20%" />
-  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/ezgif-5a997e59bd6be0.gif" alt="PySpark Cover" width="40%" />
+  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/ezgif-5a997e59bd6be0.gif" alt="PySpark Cover" width="45%" />
   <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/kisspng-python-compute-removebg-preview.png" alt="PySpark Cover" width = "22%" />
 </p> 
 
